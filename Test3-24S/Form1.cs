@@ -9,7 +9,7 @@ namespace Test3_24S
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = textBox1.Text;
+            textBox2.Text = textBox1.Text;
         }
 
         private void button2_Click(object sender, EventArgs e)
